@@ -54,8 +54,8 @@
 ---
 
 ## 📫 Let's Connect
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/mmhammadeni](https://linkedin.com/in/mmhammadeni)
+- **Email:** [mmhammaden@gmail.com](mailto:mmhammaden@gmail.com)
+- **LinkedIn:** [linkedin.com/in/mohamed-mahmoud-hammaden-5a1719160](https://linkedin.com/in/mohamed-mahmoud-hammaden-5a1719160)
 - **Location:** Mauritania
 
 ---
