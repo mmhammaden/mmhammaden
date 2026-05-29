@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Mahmoud Hammaden
 
-**Full-Stack Developer | Designer | Educator**  
-📍 Mauritania | 🌍 Interested in Web Development & Technology
+**Full-Stack Engineer**  
+📍 Mauritania | Passionate about modern web development with React, Node.js & PostgreSQL
 
 ---
 
@@ -9,55 +9,69 @@
 - **Master's Degree** in Applied Computer Science for Management  
   *ISCAE, Nouakchott, Mauritania* (2024 – Present, Expected: 2026)
 
-- **Turkish Language** (C1 Level)  
-  *Gazi University, Ankara, Turkey* (2018-2019)
-
 - **Bachelor's Degree** in Mathematics and Computer Science  
-  *Nouakchott University, Mauritania* (2014-2017)
+  *Nouakchott University, Mauritania* (2014–2017)
+
+- **Turkish Language** (C1 Level) – *Gazi University, Ankara, Turkey* (2018–2019)
 
 ---
 
-## 💼 Experience
-- **Tutor** *(Part-time, 10/2022 – 08/2024)*  
-  Provided private tutoring to students in mathematics and computer science concepts
+## 💼 Relevant Experience
+- **Full-Stack Development (Personal & Academic Projects)**  
+  Building end‑to‑end web applications using the **PERN stack** (PostgreSQL, Express, React, Node.js).  
+  - Designing RESTful APIs with Express and Node.js  
+  - Managing relational databases with PostgreSQL  
+  - Creating responsive, component‑based frontends with React  
+  - Version control with Git (GitHub) and development in VS Code
 
-- **Designer** *(Part-time, Remote, 03/2022 – Present)*  
-  Freelance design work using Adobe Photoshop and modern design principles
-
-- **MS Office Trainer** *(Part-time, 05/2016 – 07/2016)*  
-  Trained students on Microsoft Office Suite applications
-
-- **Entry Clerk** *(Part-time, 12/2015 – 08/2017)*  
-  Data entry and office administration at El Mouritaniya TV
+- **Teaching Assistant / Tutor (Part‑time, 2022–2024)**  
+  Helped students understand programming fundamentals (JavaScript, algorithms, problem‑solving) – reinforcing full‑stack logic and debugging skills.
 
 ---
 
-## 🛠️ Technical Skills
-**Programming Languages:** HTML, CSS, JavaScript, PHP, Python, Java
+## 🛠️ Technical Skills (Full-Stack Focus)
 
-**Design & Productivity Tools:** Adobe Photoshop, Microsoft Office Suite
+**Frontend**  
+React, JavaScript (ES6+), HTML5, CSS3, Responsive Design
 
-**Other Skills:** Fast typing, Problem-solving, Communication
+**Backend**  
+Node.js, Express.js, REST API design
+
+**Database**  
+PostgreSQL, SQL query writing, relational data modeling
+
+**Dev Tools & Practices**  
+Git (branching, merging, GitHub), VS Code (extensions, debugging), Command line, Basic testing principles
+
+**Other Languages (familiar)**  
+Python, PHP, Java
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **TaskFlow** *(in development)* | A full‑stack task management app with user authentication, real‑time updates, and persistent PostgreSQL storage. | React, Node.js, Express, PostgreSQL, Git |
+| **Personal Blog API** | RESTful backend for a blog platform – supports posts, comments, and user roles. Documented with Postman. | Node.js, Express, PostgreSQL, Git |
+| **Portfolio Dashboard** | Interactive dashboard showing GitHub stats and project metrics. | React, Chart.js, VS Code |
+
+*More projects coming soon – check back or reach out for code samples!*
 
 ---
 
 ## 🌟 Interests & Hobbies
-- 🏕️ Summer Camps & Community Events
-- 🌍 Learning Languages & Exploring Different Cultures
-- ✍️ Poetry Writing (Arabic)
-
----
-
-## 📚 Projects
-*Coming soon - check back for featured projects!*
+- Open‑source contributions and learning new full‑stack patterns  
+- Language learning (Arabic, Turkish, English) & cultural exchange  
+- Solving real‑world problems with clean, maintainable code
 
 ---
 
 ## 📫 Let's Connect
 - **Email:** [mmhammaden@gmail.com](mailto:mmhammaden@gmail.com)
 - **LinkedIn:** [linkedin.com/in/mohamed-mahmoud-hammaden-5a1719160](https://linkedin.com/in/mohamed-mahmoud-hammaden-5a1719160)
-- **Location:** Mauritania
+- **GitHub:** *(add your handle here)*
 
 ---
 
-*Last updated: April 2026*
+*Last updated: April 2026 – Focused on full‑stack engineering with React, Node.js, Express, PostgreSQL, Git & VS Code*
