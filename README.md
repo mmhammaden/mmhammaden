@@ -1,77 +1,68 @@
 # 👋 Hi, I'm Mohamed Mahmoud Hammaden
+### Full-Stack Developer & Designer
 
-**Full-Stack Engineer**  
-📍 Mauritania | Passionate about modern web development with React, Node.js & PostgreSQL
+Backend-focused developer with a passion for building seamless, scalable digital ecosystems. Experienced across the entire development lifecycle, from high-fidelity UI/UX design to robust backend architecture. 
+
+📍 Nouakchott, Mauritania | 💼 Open to Frontend, Backend, or Junior DevOps roles
+
+---
+
+## 🚀 Professional Summary
+- **Current Focus:** Completing a Master's in Applied Computer Science for Management.
+- **Core Ecosystems:** Specialized in modern web and mobile applications using JavaScript, Node.js, Express, React, and Flutter.
+- **Design Background:** Bridging the gap between beautiful user interfaces and strong backend performance.
+
+---
+
+## 💼 Work Experience
+
+### **Full Stack Developer** *(Remote)* | `10/2024 - Present`
+- Architect and maintain full-stack web applications using React.js and modern JavaScript ecosystems.
+- Design and integrate secure, optimized RESTful APIs and handle backend server logic via Node.js and Express.js.
+- Implement responsive, fluid UI/UX designs ensuring high performance across web and mobile platforms.
+
+### **Graphic Designer** *(Part-time)* | SoluPrint | `10/2019 - 02/2023`
+- Spearheaded visual design projects, branding assets, and print layouts for a diverse portfolio of clients.
+
+---
+
+## 🛠️ Technical Skills
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Core Stack** | JavaScript, Node.js, Express.js, React.js, Flutter, REST APIs |
+| **Familiar Tech** | PHP, Python, Java, HTML5, CSS3 |
+| **Tools & Design** | Git, GitHub, Adobe Photoshop, UI/UX Architecture |
 
 ---
 
 ## 🎓 Education
-- **Master's Degree** in Applied Computer Science for Management  
-  *ISCAE, Nouakchott, Mauritania* (2024 – Present, Expected: 2026)
 
-- **Bachelor's Degree** in Mathematics and Computer Science  
-  *Nouakchott University, Mauritania* (2014–2017)
-
-- **Turkish Language** (C1 Level) – *Gazi University, Ankara, Turkey* (2018–2019)
+- **Master's Degree in Applied Computer Science for Management**
+  *ISCAE Nouakchott, Mauritania* | `2024 - Present` (Expected Graduation: 2026)
+- **Bachelor's Degree in Mathematics and Computer Science**
+  *Nouakchott University, Mauritania* | `2014 - 2017`
 
 ---
 
-## 💼 Relevant Experience
-- **Full-Stack Development (Personal & Academic Projects)**  
-  Building end‑to‑end web applications using the **PERN stack** (PostgreSQL, Express, React, Node.js).  
-  - Designing RESTful APIs with Express and Node.js  
-  - Managing relational databases with PostgreSQL  
-  - Creating responsive, component‑based frontends with React  
-  - Version control with Git (GitHub) and development in VS Code
+## 📜 Certifications
 
-- **Teaching Assistant / Tutor (Part‑time, 2022–2024)**  
-  Helped students understand programming fundamentals (JavaScript, algorithms, problem‑solving) – reinforcing full‑stack logic and debugging skills.
+- **Building RESTful APIs with Node.js and Express** – LinkedIn Learning (2026)
+- **C1 Turkish Language Proficiency** – Gazi University, Turkey (2019)
 
 ---
 
-## 🛠️ Technical Skills (Full-Stack Focus)
+## 🗣️ Languages
 
-**Frontend**  
-React, JavaScript (ES6+), HTML5, CSS3, Responsive Design
-
-**Backend**  
-Node.js, Express.js, REST API design
-
-**Database**  
-PostgreSQL, SQL query writing, relational data modeling
-
-**Dev Tools & Practices**  
-Git (branching, merging, GitHub), VS Code (extensions, debugging), Command line, Basic testing principles
-
-**Other Languages (familiar)**  
-Python, PHP, Java
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **TaskFlow** *(in development)* | A full‑stack task management app with user authentication, real‑time updates, and persistent PostgreSQL storage. | React, Node.js, Express, PostgreSQL, Git |
-| **Personal Blog API** | RESTful backend for a blog platform – supports posts, comments, and user roles. Documented with Postman. | Node.js, Express, PostgreSQL, Git |
-| **Portfolio Dashboard** | Interactive dashboard showing GitHub stats and project metrics. | React, Chart.js, VS Code |
-
-*More projects coming soon – check back or reach out for code samples!*
-
----
-
-## 🌟 Interests & Hobbies
-- Open‑source contributions and learning new full‑stack patterns  
-- Language learning (Arabic, Turkish, English) & cultural exchange  
-- Solving real‑world problems with clean, maintainable code
+- **Arabic** (Native)
+- **French** (Fluent)
+- **English** (Fluent)
+- **Turkish** (Professional Proficiency - C1)
 
 ---
 
 ## 📫 Let's Connect
-- **Email:** [mmhammaden@gmail.com](mailto:mmhammaden@gmail.com)
-- **LinkedIn:** [linkedin.com/in/mohamed-mahmoud-hammaden-5a1719160](https://linkedin.com/in/mohamed-mahmoud-hammaden-5a1719160)
-- **GitHub:** *(add your handle here)*
 
----
-
-*Last updated: April 2026 – Focused on full‑stack engineering with React, Node.js, Express, PostgreSQL, Git & VS Code*
+- **📧 Email:** [mmhammaden@gmail.com](mailto:mmhammaden@gmail.com)
+- **💼 LinkedIn:** [linkedin.com/in/mohamed-mahmoud-hammaden](https://linkedin.com/in/mohamed-mahmoud-hammaden)
+- **📱 Phone:** +222 31 40 60 22
