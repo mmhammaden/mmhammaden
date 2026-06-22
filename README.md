@@ -1,68 +1,42 @@
-# 👋 Hi, I'm Mohamed Mahmoud Hammaden
-### Full-Stack Developer & Designer
+# Muhammed Hammaden
 
-Backend-focused developer with a passion for building seamless, scalable digital ecosystems. Experienced across the entire development lifecycle, from high-fidelity UI/UX design to robust backend architecture. 
+Full-stack web developer building polished front-end experiences and reliable back-end services.
 
-📍 Nouakchott, Mauritania | 💼 Open to Frontend, Backend, or Junior DevOps roles
-
----
-
-## 🚀 Professional Summary
-- **Current Focus:** Completing a Master's in Applied Computer Science for Management.
-- **Core Ecosystems:** Specialized in modern web and mobile applications using JavaScript, Node.js, Express, React, and Flutter.
-- **Design Background:** Bridging the gap between beautiful user interfaces and strong backend performance.
+- 🔭 Tech stack: TypeScript · JavaScript · React · Node.js · Python · PostgreSQL · Docker · Git
+- 🌱 Focus areas: web apps, clean APIs, TypeScript-first frontends, CI/CD
+- 📫 Contact: mmhammaden@example.com · https://www.linkedin.com/in/your-linkedin
+- ⚡ Open to: frontend, full-stack, and web engineering roles
 
 ---
 
-## 💼 Work Experience
+## Spotlight projects
 
-### **Full Stack Developer** *(Remote)* | `10/2024 - Present`
-- Architect and maintain full-stack web applications using React.js and modern JavaScript ecosystems.
-- Design and integrate secure, optimized RESTful APIs and handle backend server logic via Node.js and Express.js.
-- Implement responsive, fluid UI/UX designs ensuring high performance across web and mobile platforms.
+- blogspace — Modern blogging platform (TypeScript, React, Node). Repo: https://github.com/mmhammaden/blogspace
+- PeakTasks — Task manager with offline support and polished UX (JavaScript). Repo: https://github.com/mmhammaden/PeakTasks
+- school-app — School management demo app (Python). Repo: https://github.com/mmhammaden/school-app
 
-### **Graphic Designer** *(Part-time)* | SoluPrint | `10/2019 - 02/2023`
-- Spearheaded visual design projects, branding assets, and print layouts for a diverse portfolio of clients.
+(See my pinned repositories on my profile for direct links and more details.)
 
 ---
 
-## 🛠️ Technical Skills
+## What I built
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Core Stack** | JavaScript, Node.js, Express.js, React.js, Flutter, REST APIs |
-| **Familiar Tech** | PHP, Python, Java, HTML5, CSS3 |
-| **Tools & Design** | Git, GitHub, Adobe Photoshop, UI/UX Architecture |
+I build small-to-medium web applications end-to-end: UI and client-side logic, backend APIs, and deployment pipelines. I focus on developer experience (clear code, types, tests) and user experience (fast, accessible interfaces). Examples include blog platforms, task apps, and domain-specific demos.
 
----
+## What I want to build
 
-## 🎓 Education
-
-- **Master's Degree in Applied Computer Science for Management**
-  *ISCAE Nouakchott, Mauritania* | `2024 - Present` (Expected Graduation: 2026)
-- **Bachelor's Degree in Mathematics and Computer Science**
-  *Nouakchott University, Mauritania* | `2014 - 2017`
+I want to build production-ready web apps that scale, developer tooling that improves productivity, and clean front-ends using TypeScript and modern frameworks. I'm looking for roles where I can contribute to product decisions, own features from design to deployment, and learn from experienced engineers.
 
 ---
 
-## 📜 Certifications
+## Quick notes for employers
 
-- **Building RESTful APIs with Node.js and Express** – LinkedIn Learning (2026)
-- **C1 Turkish Language Proficiency** – Gazi University, Turkey (2019)
-
----
-
-## 🗣️ Languages
-
-- **Arabic** (Native)
-- **French** (Fluent)
-- **English** (Fluent)
-- **Turkish** (Professional Proficiency - C1)
+- Read the README in each spotlight project to see architecture, run instructions, and screenshots/demos.
+- I write clear commits and small PRs; I'm happy to walk through design decisions and tradeoffs.
 
 ---
 
-## 📫 Let's Connect
-
-- **📧 Email:** [mmhammaden@gmail.com](mailto:mmhammaden@gmail.com)
-- **💼 LinkedIn:** [linkedin.com/in/mohamed-mahmoud-hammaden](https://linkedin.com/in/mohamed-mahmoud-hammaden)
-- **📱 Phone:** +222 31 40 60 22
+If you'd like, I can:
+- add screenshots and demo links to each project README,
+- create a GitHub Actions CI workflow for one project,
+- or customize the contact info and short bio with your preferred details.
