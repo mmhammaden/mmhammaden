@@ -4,7 +4,7 @@ Full-stack web developer building polished front-end experiences and reliable ba
 
 - 🔭 Tech stack: TypeScript · JavaScript · React · Node.js · Python · PostgreSQL · Docker · Git
 - 🌱 Focus areas: web apps, clean APIs, TypeScript-first frontends, CI/CD
-- 📫 Contact: mmhammaden@example.com · https://www.linkedin.com/in/your-linkedin
+- 📫 Contact: mmhammaden@gmail.com · https://www.linkedin.com/in/mmhammaden
 - ⚡ Open to: frontend, full-stack, and web engineering roles
 
 ---
